@@ -1,6 +1,6 @@
 # EsameFineModulo5
 
-### Le origini dati vanno messe in una cartella chiamata "archive", altrimenti potrebbe non funzionare
+### Le origini dati vanno messe in una cartella chiamata "archive", altrimenti potrebbe non funzionare. Consultare ultima versione del file.
 
 ## Passaggi e Svolgimento del Report
 
