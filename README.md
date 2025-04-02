@@ -14,3 +14,8 @@ Un tentativo di join è stato fatto tra la tabella Orders e Items. In Power Quer
 ### 3) Task Richieste
 Le 3 task sono state soddisfatte in 3 pagine diverse: Ordini, Ricavi e Rating. Si è deciso di tenere per ogni pagina delle visual "Schede" non aggiornabili ingnorando il contesto di filtro. Esse mostrano una visual generale del contesto in questione. Le pagine possiedono menù e pulsanti interattivi per visualizzare diversi aspetti. 
 Sono state aggiunte 2 pagine aggiuntive che visualizzano il lato geografico e il lato dei pagamenti, mostrando in quest'ultima un ranking dei vari customer e seller.
+
+## Aggiornamento file .pbix (Versone 2)
+### Modificato file (02/04/2025)
+Mi era sfuggito aggiornare la misura dei Prodotti Non Venduti. Come descritto nel punto 2) si era provato ad avere un'unica tabella dei fatti, riuscendo parzialmente. La prima versione della misura era collegata in maniera implicita a questa tabella in join alla quale ho disabilitato il caricamento in power bi (su power query è visbile). Dopo esser tornato con le tabella separate, la misura non è stata aggiornata.
+Nella vesione 2 del file .pbix, la stessa misura è collegata correttamente. Per maggiore chiarezza, consultare la tabella in power query "ProdottiNonVenduti".
